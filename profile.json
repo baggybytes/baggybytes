@@ -23,7 +23,7 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
-    "subtitle": "I'm a creator & designer on the rise, i make videos about linux, foss & open source stuff, and tech in general!",
+    "subtitle": "I'm a creator & designer on the rise, i make videos about linux, open source stuff, and tech!",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
@@ -65,33 +65,45 @@
         "title": "Main",
         "items": [
           {
-            "icon": "brand:typescript",
-            "label": "TypeScript"
+            "icon": "brand:hyprland",
+            "label": "Hyprland"
           },
           {
-            "icon": "brand:react",
-            "label": "React"
+            "icon": "brand:lua",
+            "label": "Lua"
           },
           {
-            "icon": "brand:python",
-            "label": "Python"
+            "icon": "brand:luau",
+            "label": "LuaU"
           }
         ]
       },
       {
-        "title": "Tools",
+        "title": "Privacy Pack",
         "items": [
           {
-            "icon": "brand:git",
-            "label": "Git"
+            "icon": "brand:brave",
+            "label": "Brave"
           },
           {
-            "icon": "brand:figma",
-            "label": "Figma"
+            "icon": "brand:ente",
+            "label": "Ente"
           },
           {
-            "icon": "brand:githubactions",
-            "label": "GitHub Actions"
+            "icon": "brand:tuta",
+            "label": "Tuta"
+          },
+          {
+            "icon": "brand:addydotio",
+            "label": "Addy.io"
+          },
+          {
+            "icon": "brand:bitwarden",
+            "label": "Bitwarden"
+          },
+          {
+            "icon": "vpn_key",
+            "label": "Windscribe VPN"
           }
         ]
       }
