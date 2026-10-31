@@ -1,8 +1,8 @@
 {
- "key": "1febd1c3",
- "stars": 0,
- "contributions": 6,
- "repos": 1,
+ "key": "ed418e53",
+ "stars": 3,
+ "contributions": 11,
+ "repos": 3,
  "followers": 1,
  "languages": [],
  "days": [
@@ -112,7 +112,7 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 8,
     "day": 31,
     "today": true
    }
@@ -125,11 +125,29 @@
  "pins": [],
  "all": [
   {
+   "name": "Unbloated-Windows",
+   "url": "https://github.com/baggybytes/Unbloated-Windows",
+   "text": "💻 · On this repo, I will showcase all the tools I use to remove the Win11 bloat, spyware & customize my Windows. Still not powerfull as using Linux.",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "BaggyPapers",
+   "url": "https://github.com/baggybytes/BaggyPapers",
+   "text": "🎨 · My own set of wallpapers gathered to you! With several themes and tastes, Perfect to your desktop!",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
    "name": "baggybytes",
    "url": "https://github.com/baggybytes/baggybytes",
    "text": "",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": null,
    "topics": []
   }
