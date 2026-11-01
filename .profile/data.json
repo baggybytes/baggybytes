@@ -1,48 +1,11 @@
 {
- "key": "deb0db01",
- "stars": 3,
- "contributions": 12,
- "repos": 3,
+ "key": "8fdab0af",
+ "stars": 0,
+ "contributions": 7,
+ "repos": 1,
  "followers": 1,
  "languages": [],
  "days": [
-  [
-   {
-    "c": 0,
-    "day": 11,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 12,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 13,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 14,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 15,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 16,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 17,
-    "today": false
-   }
-  ],
   [
    {
     "c": 0,
@@ -112,10 +75,23 @@
     "today": false
    },
    {
-    "c": 9,
+    "c": 4,
     "day": 31,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
@@ -125,29 +101,11 @@
  "pins": [],
  "all": [
   {
-   "name": "Unbloated-Windows",
-   "url": "https://github.com/baggybytes/Unbloated-Windows",
-   "text": "💻 · On this repo, I will showcase all the tools I use to remove the Win11 bloat, spyware & customize my Windows. Still not powerfull as using Linux.",
-   "fork": false,
-   "stars": 1,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "BaggyPapers",
-   "url": "https://github.com/baggybytes/BaggyPapers",
-   "text": "🎨 · My own set of wallpapers gathered to you! With several themes and tastes, Perfect to your desktop!",
-   "fork": false,
-   "stars": 1,
-   "language": null,
-   "topics": []
-  },
-  {
    "name": "baggybytes",
    "url": "https://github.com/baggybytes/baggybytes",
    "text": "",
    "fork": false,
-   "stars": 1,
+   "stars": 0,
    "language": null,
    "topics": []
   }
