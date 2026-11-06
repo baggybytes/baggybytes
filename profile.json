@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "baggybytes",
-  "seed": "#4285F4",
+  "seed": "#5C7CFF",
   "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
@@ -17,94 +17,75 @@
     "wave",
     "buttons"
   ],
-  "hidden": [
-    "stack",
-    "projects"
-  ],
+  "hidden": [],
   "hero": {
-    "greeting": "Hi, I'm",
+    "greeting": "hey, i'm",
     "name": "",
-    "subtitle": "I'm a creator & designer on the rise, i make videos about linux, open source stuff, and tech!",
-    "typing": true,
+    "subtitle": "i make content about linux, open-source, & tech!\n\"once you wear a baggy, you fell swaggy\"",
+    "typing": false,
     "avatarShape": "cookie12",
     "chips": [
       {
         "icon": "location_on",
-        "label": "Brazil"
+        "label": "earth"
       },
       {
-        "icon": "work",
-        "label": "Youtuber · Designer"
+        "icon": "brand:artixlinux",
+        "label": "artix btw"
       },
       {
-        "icon": "jamboard_kiosk",
-        "label": "Linux · Unbloated Win11"
+        "icon": "shield_radar",
+        "label": "open-rc · doas"
       }
     ]
   },
   "about": {
-    "title": "About me",
+    "title": "about me",
     "items": [
       {
         "icon": "person",
-        "label": "Youtuber and Designer"
+        "label": "youtuber and designer"
       },
       {
         "icon": "shield_locked",
-        "label": "Into Online Privacy"
+        "label": "into online privacy & opsec"
       },
       {
         "icon": "palette",
-        "label": "Into Material Design & Liquid Glass"
+        "label": "into material design & liquid glass"
       }
     ]
   },
   "stack": {
-    "title": "Tech stack",
+    "title": "tech stack",
     "groups": [
       {
-        "title": "Main",
+        "title": "main",
         "items": [
           {
-            "icon": "brand:hyprland",
-            "label": "Hyprland"
+            "icon": "palette",
+            "label": "design"
           },
           {
-            "icon": "brand:lua",
-            "label": "Lua"
-          },
-          {
-            "icon": "brand:luau",
-            "label": "LuaU"
+            "icon": "brand:youtube",
+            "label": "content creation"
           }
         ]
       },
       {
-        "title": "Privacy Pack",
+        "title": "tools",
         "items": [
           {
-            "icon": "brand:brave",
-            "label": "Brave"
+            "icon": "brand:git",
+            "label": "git"
           },
           {
-            "icon": "brand:ente",
-            "label": "Ente"
+            "icon": "brand:inkscape",
+            "label": "inkscape"
           },
           {
-            "icon": "brand:tuta",
-            "label": "Tuta"
-          },
-          {
-            "icon": "brand:addydotio",
-            "label": "Addy.io"
-          },
-          {
-            "icon": "brand:bitwarden",
-            "label": "Bitwarden"
-          },
-          {
-            "icon": "vpn_key",
-            "label": "Windscribe VPN"
+            "icon": "brand:kdenlive",
+            "label": "kdenlive"
           }
         ]
       }
@@ -118,20 +99,20 @@
     "fork": "Fork"
   },
   "stats": {
-    "title": "GitHub activity",
-    "stars": "Stars earned",
-    "contributions": "Contributions this year",
-    "repos": "Public repos",
-    "followers": "Followers",
-    "calendar": "Last 21 days",
-    "weekdays": "SMTWTFS",
+    "title": "github activity",
+    "stars": "stars earned",
+    "contributions": "contributions this year",
+    "repos": "public repos",
+    "followers": "followers",
+    "calendar": "last 21 days",
+    "weekdays": "smtwtfs",
     "languages": "Languages across my repositories",
     "showLanguages": true
   },
   "streak": {
-    "title": "Streak",
-    "current": "Current streak",
-    "longest": "Longest this year",
+    "title": "streak",
+    "current": "current streak",
+    "longest": "longest this year",
     "days": "days"
   },
   "socials": {
@@ -157,13 +138,13 @@
     "items": [
       {
         "icon": "language",
-        "label": "My website",
+        "label": "my website",
         "url": "https://example.com",
         "style": "filled"
       },
       {
         "icon": "book_2",
-        "label": "All repositories",
+        "label": "all repos",
         "url": "",
         "style": "tonal"
       }
