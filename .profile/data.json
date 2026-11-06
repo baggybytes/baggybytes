@@ -1,7 +1,7 @@
 {
- "key": "c8b0225b",
+ "key": "8e389c2c",
  "stars": 0,
- "contributions": 46,
+ "contributions": 7,
  "repos": 1,
  "followers": 2,
  "languages": [],
@@ -82,22 +82,22 @@
   ],
   [
    {
-    "c": 4,
+    "c": 0,
     "day": 1,
     "today": false
    },
    {
-    "c": 12,
+    "c": 0,
     "day": 2,
     "today": false
    },
    {
-    "c": 17,
+    "c": 0,
     "day": 3,
     "today": false
    },
    {
-    "c": 6,
+    "c": 0,
     "day": 4,
     "today": false
    },
@@ -116,7 +116,7 @@
  ],
  "streak": {
   "current": 0,
-  "longest": 5
+  "longest": 1
  },
  "pins": [],
  "all": [
