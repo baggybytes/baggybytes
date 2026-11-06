@@ -1,8 +1,8 @@
 {
- "key": "8a879a8d",
- "stars": 1,
+ "key": "c8b0225b",
+ "stars": 0,
  "contributions": 46,
- "repos": 2,
+ "repos": 1,
  "followers": 2,
  "languages": [],
  "days": [
@@ -120,15 +120,6 @@
  },
  "pins": [],
  "all": [
-  {
-   "name": "BaggyPapers",
-   "url": "https://github.com/baggybytes/BaggyPapers",
-   "text": "🎨 · My own set of wallpapers gathered to you! With several themes and tastes, Perfect to your desktop!",
-   "fork": false,
-   "stars": 1,
-   "language": null,
-   "topics": []
-  },
   {
    "name": "baggybytes",
    "url": "https://github.com/baggybytes/baggybytes",
