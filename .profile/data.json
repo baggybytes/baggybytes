@@ -1,9 +1,9 @@
 {
- "key": "d8b83a74",
+ "key": "28eaf714",
  "stars": 1,
  "contributions": 9,
  "repos": 1,
- "followers": 2,
+ "followers": 3,
  "languages": [],
  "days": [
   [
@@ -99,9 +99,13 @@
    {
     "c": 0,
     "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
     "today": true
    },
-   null,
    null,
    null
   ]
